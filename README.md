@@ -4,4 +4,4 @@ This Azure IoT Edge module supports only two Direct Methods with fixed output to
 
 # Blog
 
-A blog with a detailed description is available at blog.vandevelde-online.com
+A blog with a detailed description is available at https://blog.vandevelde-online.com
